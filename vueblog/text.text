@@ -1,0 +1,2 @@
+package.json中去掉了
+"eslint:recommended",报错那玩意
